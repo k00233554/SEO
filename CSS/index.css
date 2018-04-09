@@ -9,7 +9,9 @@
     
 }
 
-
+.image {
+    text-align: left;
+}
 .head1 {
     font-family: 'GoudyBookletter1911';
 }
@@ -99,7 +101,7 @@ body {
             "a a a a a a"
             "cu cu cu cu"
             "f f f f f f";
-    }
+    } 
 }
 
 
